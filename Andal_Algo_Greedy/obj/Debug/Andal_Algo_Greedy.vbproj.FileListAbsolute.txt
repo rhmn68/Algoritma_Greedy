@@ -1,0 +1,11 @@
+c:\users\rahman\documents\visual studio 2017\Projects\Andal_Algo_Greedy\Andal_Algo_Greedy\bin\Debug\Andal_Algo_Greedy.exe.config
+c:\users\rahman\documents\visual studio 2017\Projects\Andal_Algo_Greedy\Andal_Algo_Greedy\bin\Debug\Andal_Algo_Greedy.exe
+c:\users\rahman\documents\visual studio 2017\Projects\Andal_Algo_Greedy\Andal_Algo_Greedy\bin\Debug\Andal_Algo_Greedy.pdb
+c:\users\rahman\documents\visual studio 2017\Projects\Andal_Algo_Greedy\Andal_Algo_Greedy\bin\Debug\Andal_Algo_Greedy.xml
+c:\users\rahman\documents\visual studio 2017\Projects\Andal_Algo_Greedy\Andal_Algo_Greedy\obj\Debug\Andal_Algo_Greedy.vbprojResolveAssemblyReference.cache
+c:\users\rahman\documents\visual studio 2017\Projects\Andal_Algo_Greedy\Andal_Algo_Greedy\obj\Debug\Andal_Algo_Greedy.Form1.resources
+c:\users\rahman\documents\visual studio 2017\Projects\Andal_Algo_Greedy\Andal_Algo_Greedy\obj\Debug\Andal_Algo_Greedy.Resources.resources
+c:\users\rahman\documents\visual studio 2017\Projects\Andal_Algo_Greedy\Andal_Algo_Greedy\obj\Debug\Andal_Algo_Greedy.vbproj.GenerateResource.Cache
+c:\users\rahman\documents\visual studio 2017\Projects\Andal_Algo_Greedy\Andal_Algo_Greedy\obj\Debug\Andal_Algo_Greedy.exe
+c:\users\rahman\documents\visual studio 2017\Projects\Andal_Algo_Greedy\Andal_Algo_Greedy\obj\Debug\Andal_Algo_Greedy.xml
+c:\users\rahman\documents\visual studio 2017\Projects\Andal_Algo_Greedy\Andal_Algo_Greedy\obj\Debug\Andal_Algo_Greedy.pdb
